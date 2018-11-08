@@ -12,7 +12,7 @@ Name: Sumon Halder
 Id:16151022  
 phone:01684778734
 
-Name: Afrin Akter Rumi  (App design)
+Name: Afrin Akter Rumi
 Id: 16155025 
 phone: 01989598155
 
