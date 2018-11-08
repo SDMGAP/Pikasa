@@ -1,4 +1,5 @@
 #Group Members
+
 Name: Noor a Afrin Ela
 Id: 16151001  
 phone:01954359737
@@ -17,5 +18,7 @@ phone: 01989598155
 
 Project Contributioins:
 project idea: Sumon Halder
+
 design: Noor a Afrin Ela, Afrin Akter Rumi
+
 development: Mahmudul Hasan
